@@ -1,0 +1,12 @@
+# python files
+*.pyc
+
+# virtual environment
+venw/
+
+# JetBrains IDE
+.idea
+
+__pycache__
+.DS_Store
+
