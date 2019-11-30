@@ -1,5 +1,6 @@
 import telebot
 from pandas import read_excel
+#рид ексель? серьезно? .csv для лохов ексель для пацанов?
 bot = telebot.TeleBot('')
 
 
